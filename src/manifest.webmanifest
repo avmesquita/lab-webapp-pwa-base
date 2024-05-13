@@ -1,0 +1,138 @@
+{
+  "id":"/",
+  "scope": "./",
+  "start_url": "./",
+  "name": "Progressive Web Application Base",
+  "short_name": "PWA base",
+  "description": "Laboratório de estudo e otimização para base de criação rápida de aplicativos",
+  "theme_color": "#1976d2",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "related_applications": [],
+  "orientation": "any",
+  "prefer_related_applications": false,
+  "display_override": ["window-controls-overlay"],
+  "launch_handler": {
+    "client_mode": "focus-existing"
+  },
+  "icons": [
+    {
+      "src": "assets/icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/icons/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "features": [
+    "Cross Platform",
+    "fast",
+    "simple"
+  ],
+  "categories": [    
+    "business",
+    "education",
+    "finance",
+    "utilities"    
+  ],
+  "screenshots": [
+    {
+      "src": "assets/screenshots/screnshot-01.png",
+      "sizes": "1260x745",
+      "type": "image/png",
+      "description": "Home"
+    },
+    {
+      "src": "assets/screenshots/screnshot-02.png",
+      "sizes": "1168x557",
+      "type": "image/png",
+      "description": "Contas"
+    },
+    {
+      "src": "assets/screenshots/screnshot-03.png",
+      "sizes": "1171x564",
+      "type": "image/png",
+      "description": "Edição de Conta"
+    },
+    {
+      "src": "assets/screenshots/screnshot-04.png",
+      "sizes": "1166x563",
+      "type": "image/png",
+      "description": "Lançamentos"
+    },
+    {
+      "src": "assets/screenshots/screnshot-05.png",
+      "sizes": "1169x562",
+      "type": "image/png",
+      "description": "Gráfico"
+    },
+    {
+      "src": "assets/screenshots/screnshot-06.png",
+      "sizes": "1168x595",
+      "type": "image/png",
+      "description": "Edição de Lançamento"
+    },
+    {
+      "src": "assets/screenshots/screnshot-07.png",
+      "sizes": "1170x597",
+      "type": "image/png",
+      "description": "Edição de Investimento"
+    },
+    {
+      "src": "assets/screenshots/screnshot-08.png",
+      "sizes": "1153x693",
+      "type": "image/png",
+      "description": "Sobre"
+    }    
+  ],
+  "shortcuts": [
+    {
+      "name": "Progressive Web Application Base",
+      "short_name": "PWA base",
+      "description": "Laboratório de estudo e otimização para base de criação rápida de aplicativos.",
+      "url": "/",
+      "icons": [{ "src": "assets/icons/192x192.png", "sizes": "192x192" }]
+    }
+  ]
+}

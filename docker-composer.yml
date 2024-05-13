@@ -1,0 +1,10 @@
+name: "lab-webapp-pwa-base"
+version: "3"
+services:
+  webapp:
+    build: "."
+    tags:      
+      - "lab-webapp-pwa-base"      
+    image: avmesquita/lab-webapp-pwa-base
+    ports:
+      - 80:80
